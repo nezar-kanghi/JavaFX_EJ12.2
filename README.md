@@ -1,0 +1,1 @@
+Igual que el ejercicio 10 pero esta vez el ComboBox no tiene valor por defecto, así que hay que controlar que getValue() devuelva null cuando no se ha seleccionado nada y mostrar un mensaje pidiendo que se elija una opción.
